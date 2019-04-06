@@ -42,9 +42,9 @@ body {
 
 .default-slider {
   cursor: pointer;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 
 .default-slider-inner {
-    background-color: red;
+    background-color: rgb(255, 0, 0);
 }
